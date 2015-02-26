@@ -1,0 +1,11 @@
+body{
+	margin: 0px;
+}
+h1{
+	font: sans-serif;
+	text-align: center;
+}
+ul{
+	list-style: none;
+	font: sans-serif;
+}
